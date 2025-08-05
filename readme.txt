@@ -53,7 +53,7 @@ python rosint.py --domain example.com --output json
 👨‍💻 Author
 
 Nadim Mahmud Rishan
-💼 LinkedIn
+💼 LinkedIn(https://www.linkedin.com/in/nadim-mahmud-rishan)
 🧩 Contributions
 
 Feel free to fork, improve, and submit a pull request 🚀
